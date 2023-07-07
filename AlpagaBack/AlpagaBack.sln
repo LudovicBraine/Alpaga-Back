@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlpagaBack", "AlpagaBack.csproj", "{0C07800F-D4EA-4250-AFFB-55D8D1E8B175}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C07800F-D4EA-4250-AFFB-55D8D1E8B175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C07800F-D4EA-4250-AFFB-55D8D1E8B175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C07800F-D4EA-4250-AFFB-55D8D1E8B175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C07800F-D4EA-4250-AFFB-55D8D1E8B175}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44AEA1E4-81FB-4D0F-9758-2572B76C0276}
+	EndGlobalSection
+EndGlobal
